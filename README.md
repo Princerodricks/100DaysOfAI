@@ -19,3 +19,30 @@
 ### 📅 Logs (Chronological)
 
 📂 Logs are saved inside folders like:
+
+
+---
+
+## ✅ 2. `100DaysOfAI` — _Daily Execution Logs_
+
+``md
+<h1 align="center">🗓️ 100 Days of AI: Mission Execution</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Challenge-Active-neon?style=for-the-badge&logo=gitbook&logoColor=black"/>
+  <a href="https://github.com/Princerodricks/100DaysOfAI/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Princerodricks/100DaysOfAI?style=for-the-badge&color=lightblue" />
+  </a>
+  <img src="https://img.shields.io/badge/LLMs-LangChain-purple?style=for-the-badge&logo=openai"/>
+</p>
+
+---
+
+## 💡 Format
+
+``bash
+Week01/
+ └── Day01.md
+ └── Day02.md
+...
+
