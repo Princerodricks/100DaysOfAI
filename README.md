@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Princerodricks/100DaysOfAI/blob/main/100daysofai_banner.png" alt="AI Banner" style="max-width: 100%;">
+</p>
 <h1 align="center">📆 #100DaysOfAI</h1>
 <h3 align="center">From Hello World to AGI ⚙️</h3>
 
