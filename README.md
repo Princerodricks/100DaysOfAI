@@ -13,17 +13,6 @@
 
 ---
 
-### 💡 What is #100DaysOfAI?
-
-> A daily challenge to push myself to learn, build, and experiment with AI every single day — for 100 days straight. Inspired by #100DaysOfCode but laser-focused on AI, LLMs, and GenAI 🌍
-
----
-
-### 📅 Logs (Chronological)
-
-📂 Logs are saved inside folders like:
-
-
 ---
 
 ## ✅ 2. `100DaysOfAI` — _Daily Execution Logs_
