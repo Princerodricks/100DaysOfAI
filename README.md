@@ -56,6 +56,12 @@ Takeaway: i noticed something in these past days that i am not getting bored!! a
 #AI #MachineLearning #GenAl #Python
 
 
+### ✅Day 5 of #100DaysOfCodel learned:
+Revised all that i did in the past days and tomorrow I'll start with List and tuples.
+Takeaway: Each part of learning python is divided into parts , a rivision is very important after every part.
+#AI #MachineLearning #GenAl #Python
+
+
 
 
 
