@@ -11,13 +11,8 @@
   <img src="https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
----
-
 ## ✅ 2. `100DaysOfAI` — _Daily Execution Logs_
 
-``md
 <h1 align="center">🗓️ 100 Days of AI: Mission Execution</h1>
 
 <p align="center">
