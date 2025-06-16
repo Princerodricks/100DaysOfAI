@@ -45,6 +45,18 @@ Some more Python syntax
 Takeaway:Learning Python is like learning to think — the syntax is just the surface, logic is the real power. 
 #AI #MachineLearning #GenAl #Python
 
+### ✅Day 3 of #100DaysOfCodel learned:
+Some more Python syntax,  there's tooooooooo many 
+Takeaway:Slowly getting the logic, i am liking this!!!!! 
+#AI #MachineLearning #GenAl #Python
+
+### ✅Day 4 of #100DaysOfCodel learned:
+Some more Python syntax, ahhhhhh when does this get over????
+Takeaway: i noticed something in these past days that i am not getting bored!! and thats fantastic for a start!!!
+#AI #MachineLearning #GenAl #Python
+
+
+
 
 
 
