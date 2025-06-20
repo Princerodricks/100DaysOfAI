@@ -42,12 +42,12 @@ Each day, I’ll log my progress, learning topics, tools explored, and small pro
 
 ### ✅Day 2 of #100DaysOfCodel learned:
 Some more Python syntax
-Takeaway:Learning Python is like learning to think — the syntax is just the surface, logic is the real power. 
+Takeaway: Learning Python is like learning to think — the syntax is just the surface, logic is the real power. 
 #AI #MachineLearning #GenAl #Python
 
 ### ✅Day 3 of #100DaysOfCodel learned:
 Some more Python syntax, there's tooooooooo many 
-Takeaway:Slowly getting the logic, i am liking this!!!!! 
+Takeaway: Slowly getting the logic, i am liking this!!!!! 
 #AI #MachineLearning #GenAl #Python
 
 ### ✅Day 4 of #100DaysOfCodel learned:
@@ -59,6 +59,26 @@ Takeaway: i noticed something in these past days that i am not getting bored!! a
 ### ✅Day 5 of #100DaysOfCodel learned:
 Revised all that i did in the past days and tomorrow I'll start with List and tuples.
 Takeaway: Each part of learning python is divided into parts , a rivision is very important after every part.
+#AI #MachineLearning #GenAl #Python
+
+### ✅Day 6 of #100DaysOfCodel learned:
+Revised all that i did in the past days , i also started maths for ML today.
+Takeaway: After learning a topic, revisit and practice it before moving ahead. It strengthens memory and understanding. 
+#AI #MachineLearning #GenAl #Python
+
+### ✅Day 7 of #100DaysOfCodel learned:
+ohh this maths is getting harder and harder!!
+Takeaway: Writing code without a compiler (on paper or in notes) boosts logic-building and reduces dependency on autocomplete.
+#AI #MachineLearning #GenAl #Python
+
+### ✅Day 8 of #100DaysOfCodel learned:
+huhh! i am getting a gist of it now.
+Takeaway: Apply your learning with small projects like a calculator, to-do app, or quiz — this reinforces concepts.
+#AI #MachineLearning #GenAl #Python
+
+### ✅Day 9 of #100DaysOfCodel learned:
+building up confidence.
+Takeaway: Focus on why and how Python works, not just remembering syntax. That’s what makes you a real programmer.
 #AI #MachineLearning #GenAl #Python
 
 
