@@ -86,6 +86,12 @@ learned: did some changes in the RSP, added some while loops, somescope, and it 
 Takeaway: practice makes one perfect. 
 #AI #MachineLearning #GenAl #Python
 
+### ✅Day 11 of #100DaysOfCodel 
+learned: taking some time ot to do maths also , caus thats also important. 
+Takeaway:stick with the basics.
+#AI #MachineLearning #GenAl #Python
+
+
 
 
 
