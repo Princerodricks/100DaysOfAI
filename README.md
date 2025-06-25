@@ -91,6 +91,25 @@ learned: taking some time ot to do maths also , caus thats also important.
 Takeaway:stick with the basics.
 #AI #MachineLearning #GenAl #Python
 
+### ✅ Day 12
+learned: finished with the basics now  planning to build a web app. 
+Takeaway: Always start with something easy to build.
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 13
+learned: Decided to build simple weather webapp and already strarted working on it!!!
+Takeaway: nothings easy!!!!!
+#AI #MachineLearning #GenAl #Python
+
+### ✅ Day 14<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python3.10+-black?style=for-the-badge&logo=python&logoColor=lightblue" />
+  <img src="https://img.shields.io/badge/IDE-VSCode-purple?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Track-Beginner→Advanced-neon?style=for-the-badge&logo=github" />
+</p>
+learned: Its finally ready!!!! ( https://python-weather-jgw2.onrender.com ) 
+Takeaway: Always celebrate the smallest things!!!
+#AI #MachineLearning #GenAl #Python
+
 
 
 
