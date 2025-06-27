@@ -71,7 +71,7 @@ ohh this maths is getting harder and harder!!
 Takeaway: Writing code without a compiler (on paper or in notes) boosts logic-building and reduces dependency on autocomplete.
 #AI #MachineLearning #GenAl #Python
 
-### ✅Day 8 of #100DaysOfCodel learned:
+### ✅Day 8 of #100DaysOfCodel learned: ####### WEEK-2 ######### 19th JUNE
 huhh! i am getting a gist of it now.
 Takeaway: Apply your learning with small projects like a calculator, to-do app, or quiz — this reinforces concepts.
 #AI #MachineLearning #GenAl #Python
@@ -101,7 +101,7 @@ learned: Decided to build simple weather webapp and already strarted working on 
 Takeaway: nothings easy!!!!!
 #AI #MachineLearning #GenAl #Python
 
-### ✅ Day 14<p align="center">
+### ✅ Day 14<p align="center"> ####### WEEK-3 ######### 25th JUNE
   <img src="https://img.shields.io/badge/Language-Python3.10+-black?style=for-the-badge&logo=python&logoColor=lightblue" />
   <img src="https://img.shields.io/badge/IDE-VSCode-purple?style=for-the-badge&logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Track-Beginner→Advanced-neon?style=for-the-badge&logo=github" />
